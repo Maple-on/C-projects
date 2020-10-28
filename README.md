@@ -1,6 +1,7 @@
 # Demo
 My own projects using C++ 
 # subheader
+checking for updates
 areas.cpp // is the program to calculate the area of different figures with different shapes
 
 calculation.cpp // is the program to make calculations
