@@ -1,7 +1,6 @@
-# Demo hello
-My own projects using C++ 
-# subheader
-checking for updates
+# My own projects using C++ 
+Here you can find my projects
+# Read to understand what each project does
 areas.cpp // is the program to calculate the area of different figures with different shapes
 
 calculation.cpp // is the program to make calculations
