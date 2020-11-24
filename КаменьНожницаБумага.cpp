@@ -8,6 +8,7 @@ int main()
     int first = 1;
     int last = 3;
     int a = first + rand() % last; 
+    // int a = first + rand() % (last-first+1);
     switch (a)
     {
     case 1:
